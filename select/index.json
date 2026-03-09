@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Midnight Song",
+  "base_artist": "AZKi",
+  "createdAt": "2026-03-09T08:20:52.047591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Wild Nothing",
+      "has_synced": true,
+      "path": "select/01_Midnight_Song_Wild_Nothing.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/02_Midnight_Song_AZKi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Kimmie Rhodes",
+      "has_synced": false,
+      "path": "select/03_Midnight_Song_Kimmie_Rhodes.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Midnight Song",
+      "artist": "BALTHVS",
+      "has_synced": true,
+      "path": "select/04_The_Midnight_Song_BALTHVS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Betty You Gone Wrong (Midnight Song, Pt. I)",
+      "artist": "Secret Weapons",
+      "has_synced": true,
+      "path": "select/05_Betty_You_Gone_Wrong_(Midnight_Song,_Pt._I)_Secret_Weapons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Betty You Gone Wrong (Midnight Song, Pt. II)",
+      "artist": "Secret Weapons",
+      "has_synced": true,
+      "path": "select/06_Betty_You_Gone_Wrong_(Midnight_Song,_Pt._II)_Secret_Weapons.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "The fin.",
+      "has_synced": true,
+      "path": "select/07_Midnight_Song_The_fin..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Wild Nothing",
+      "has_synced": true,
+      "path": "select/08_Midnight_Song_Wild_Nothing.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Wuthering Heights",
+      "has_synced": false,
+      "path": "select/09_Midnight_Song_Wuthering_Heights.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "RedLight",
+      "has_synced": false,
+      "path": "select/10_Midnight_Song_RedLight.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Wolf Alice",
+      "has_synced": true,
+      "path": "select/11_Midnight_Song_Wolf_Alice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight Song",
+      "artist": "Otnicka",
+      "has_synced": true,
+      "path": "select/12_Midnight_Song_Otnicka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Song",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Song_AZKi.txt"
+    }
+  ]
+}
